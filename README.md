@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Thieu Hy<br>👀 I’m interested in weightlifting, video game, and cat<br>🌱 In progress: Google Advance Data Analytics Certification<br>📫 How to reach me thieuhy03@gmail.com<br>⚡ Fun fact: my name is pronounced two hee
+👋 Hi, I’m Thieu Hy<br>👀 I’m passionate about data analysis, visualization, and insights-driven problem solving<br>🌱 In progress: Google Advance Data Analytics Certification<br>📫 How to reach me thieuhy03@gmail.com<br>⚡ Fun fact: my name is pronounced two hee
 
 
 <!---
